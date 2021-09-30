@@ -1,0 +1,12 @@
+/getWeatherREST/src/test/java/com/weatherapp/weatherapp
+/getWeatherREST/src/main/resources
+/.idea
+/.vscode
+/getWeatherREST/.mvn/wrapper
+/getWeatherREST/target
+/getWeatherREST/.gitignore
+/getWeatherREST/src/main/java/com/getWeatherREST/controllers/ViewController.java
+/getWeatherREST/pom.xml
+/getWeatherREST/mvnw
+/getWeatherREST/mvnw.cmd
+/.gitignore
